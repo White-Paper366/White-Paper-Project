@@ -1,2 +1,2 @@
 # White-Paper-Project
-Individual exercise items
+Practice project
